@@ -1,2 +1,1 @@
-# Bomberman-C
-Bomberman game written in C language. 
+# LPRS2_MAX1000_Game_Console_Emulator
